@@ -32,7 +32,7 @@ We did not find a significant linear relationship between the number of unique q
 
 The paper tries to find a relation between session lengths of users and their knowledge gain in informational search sessions corresponding to the different topics and suggests that length of a session does not directly influence the knowledge gain of users.
 
-We did not find a significant linear relationship between the number of web pages that users navigated to, and their knowledge gain. We found no significant effect of such navigation behavior on the knowledge gain. We also found no significant linear relationship between these two variables.
+By analysis of variance of different topics on the navigation behavior of users the article  not find significant effect of such navigation behavior on the knowledge gain. We also found no significant linear relationship between these two variables.
 
 This suggests that the amount of time that users spend actively on web pages within the search session describes around 7% of the variance
 in their knowledge gain.
